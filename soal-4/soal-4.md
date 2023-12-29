@@ -1,0 +1,2 @@
+## API (Application Programming Interface)
+API merupakan singkatan dari Application Programming Interface yang berarti merupakan sebuah antarmuka sebagai perantara antara dua buah program bisa berkomunikasi satu sama lain. Salah contoh API dalam bidang web yaitu Rest API, yaitu bagaimana cara komunikasi client dan server melalui protokol HTTP. Pada Rest API kita dapat melakukan request dan juga mendapatkan response data yang kita perlukan.
